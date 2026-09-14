@@ -1,0 +1,14 @@
+"lesson","topic","n_questions","release","max_used","n_at_max","max_exact","additivity_resid","n_finished","n_first","n_in_week"
+1,"Messtheorie/Deskriptivstatistik f<U+00FC>r nominal- und ordinalskalierte Variablen",6,"2025-09-24",6,38,TRUE,2.66e-14,392,264,25
+2,"Deskriptivstatistik f<U+00FC>r metrische Variablen",6,"2025-10-01",5,39,TRUE,1.78e-15,334,230,25
+3,"Wahrscheinlichkeitstheorie I: Mengen, kombinatorische Modelle, Wahrscheinlichkeiten",11,"2025-10-08",10.5,3,FALSE,6.57e-14,370,242,18
+4,"Wahrscheinlichkeitstheorie II: Bedingte Wahrscheinlichkeit, Bayes-Theorem und Diskrete Zufallsvariablen",6,"2025-10-15",7,6,TRUE,1.78e-15,382,237,23
+5,"Wahrscheinlichkeitstheorie III: Weitere Verteilungen diskreter Zufallsvariablen / Stetige Zufallsvariablen",6,"2025-10-22",10,19,TRUE,3.55e-15,349,230,26
+6,"Grundlagen der Inferenzstatistik I: Hypothesentests und Arten von Wahrscheinlichkeiten beim statistischen Schliessen",5,"2025-10-29",5,45,TRUE,1.78e-15,414,248,32
+7,"Grundlagen der Inferenzstatistik II: Testen an Stichproben, Effektgr<U+00F6>ssen und Testst<U+00E4>rke",7,"2025-11-05",7,43,TRUE,1.78e-15,365,233,28
+8,"Grundlagen der Inferenzstatistik III: Parametersch<U+00E4>tzung: G<U+00FC>tekriterien, Konfidenzintervalle und t-Test",4,"2025-11-12",3.5,2,FALSE,0,368,229,23
+9,"Zweistichproben-t-Tests f<U+00FC>r unabh<U+00E4>ngige und f<U+00FC>r abh<U+00E4>ngige Stichproben",7,"2025-11-19",7,21,TRUE,8.88e-16,298,205,33
+10,"Produkt-Moment-Korrelation",6,"2025-11-26",6,5,TRUE,2.66e-15,292,205,24
+11,"H<U+00E4>ufigkeitstests/Anteilstests f<U+00FC>r eine Stichprobe",5,"2025-12-03",4.5,13,TRUE,8.88e-16,283,196,21
+12,"H<U+00E4>ufigkeitstests/Anteilstests f<U+00FC>r zwei Stichproben",7,"2025-12-10",7,19,TRUE,8.88e-16,222,166,18
+13,NA,17,"2026-01-09",13.299976,1,FALSE,5.33e-15,112,87,5

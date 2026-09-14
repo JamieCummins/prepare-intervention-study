@@ -1,0 +1,18 @@
+# --- OS / editor cruft ---
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# --- Raw student data: never public ---
+# HS2025 Qualtrics exports contain self-chosen student pseudonyms and timestamps.
+data/
+# Per-attempt long file derived from those exports (contains pseudonyms).
+analysis/historical_performance/first_attempts_long.csv
+
+# --- Ethics package (applications, consent forms, committee correspondence): kept local ---
+ethics/
+
+# --- Generated / local ---
+preregistration/power_analysis/quick/

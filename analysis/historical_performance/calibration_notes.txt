@@ -1,0 +1,14 @@
+Calibration from HS2025 in-week completions, lessons 1-12 (n obs = 296 from 119 students; cohort of ever-active pseudonyms = 674)
+  CAUTION: small, self-selected in-week sample; treat as rough anchors.
+  Marginal mean score           : 0.579  (power-sim base_acc)
+  Gaussian LMM on proportion scale: prop ~ 1 + (1|student) + (1|lesson)
+    SD student   = 0.145   -> logit approx 0.60  (power-sim sigma_student)
+    SD lesson    = 0.121   -> logit approx 0.50  (power-sim sigma_lesson)
+    SD residual  = 0.181   (includes item-sampling noise; power-sim sigma_sw
+                            should be set BELOW its logit equivalent because the
+                            binomial item draw already contributes this noise)
+  Perfect-score share overall   : 3.4%
+  In-week completion, median    : 24 students/lesson (4% of cohort)
+  NOTE: voluntary in-week uptake was this low last year; the study's
+  completion assumptions must come from the incentivised assessment design,
+  not from these historical rates.
